@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 9
 
-**Author(s):** **CHANGEME**
+**Author(s):** 
 
 ## Specification
 
