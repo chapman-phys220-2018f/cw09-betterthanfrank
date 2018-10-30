@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 9
 
-**Author(s):** 
+**Author(s):** **Gwyneth Casey, Gabrielle Nutt, Amelia Roseto**
 
 ## Specification
 
@@ -42,4 +42,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Gwyneth Casey, Gabrielle Nutt, Amelia Roseto**
