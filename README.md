@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/chapman-phys220-2018f/cw06-lol.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/cw06-lol)
+[![Build Status](https://travis-ci.com/chapman-phys220-2018f/cw09-betterthanfrank.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/cw09-betterthanfrank)
 
 # PHYS220/MATH220/CPSC220 CW 9
 
