@@ -22,8 +22,9 @@ def gradient(x):
     b = np.diag(np.ones_like(x[:-1]),k =-1 )
     m = (a+b)
     m[0][2]=2
-    m[0][0:1] = [-2:2]
-    D = (1/(2*dx))(m)
-    return D
+    m[0][0:2] = [-2,2]
+       D = ((m)/2*dx)
+    fp= D @ f
+    return fp
 
-fp= D @ f
+
