@@ -16,6 +16,7 @@ def test_gradient():
     """
     Tests that the gradient returns the correct values.
     """
-    x = np.arange(0, 5)
+    x = np.arange(0, 10,1)
     D = ac.gradient(x)
-    
+    D = D[:5]
+    assert np.array_equal(D, np.array([[-1.,1.,0.,0.,0.,0.,0.,0.,0.,0.],[-0.5,0.,0.5,0.,0.,0.,0.,0.,0.,0.], [0.,-0.5,0.,0.5,0.,0.,0.,0.,0.,0.], [0.,0.,-0.5,0.,0.5,0.,0.,0.,0.,0.], [0.,0.,0.,-0.5,0.,0.5,0.,0.,0.,0.]]))

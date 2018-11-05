@@ -31,7 +31,7 @@ def xsquared():
     x = np.linspace(-10,10, num = 100, endpoint = True)
     fdx = D @ fx
     
-    plt.plot(fx,,color="k")
+    plt.plot(fx,color="k")
     plt.xlabel('X')
     plt.ylabel('Y')
     plt.title('Plot of x^2')
